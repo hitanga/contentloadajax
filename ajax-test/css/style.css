@@ -1,0 +1,5 @@
+#myScroll {border: 1px solid #999;}
+p {border: 1px solid #ccc; padding: 50px;text-align: center;
+   }
+.loading {color: red;}
+.dynamic {background-color:#ccc; color:#000;}
